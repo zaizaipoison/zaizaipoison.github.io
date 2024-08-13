@@ -35,7 +35,7 @@
     <link href="/2024/07/24/First-blog/"/>
     <url>/2024/07/24/First-blog/</url>
     
-    <content type="html"><![CDATA[<p>这是我的第一个博客</p><p>之前看到过很多自己的博客网站，我也想整一个</p><p>希望以后能坚持下来</p>]]></content>
+    <content type="html"><![CDATA[<p>这是我的第一个博客</p><p>之前看到过很多自己的博客网站，我也想整一个</p><p>希望以后能坚持下来</p><p>生成新博客</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs git">hexo new &quot;filename&quot;<br></code></pre></td></tr></table></figure><p>提交</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs git">hexo g<br></code></pre></td></tr></table></figure><p>本地启动</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs git">hexo s<br></code></pre></td></tr></table></figure><p>提交到github部署</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs git">hexo d<br></code></pre></td></tr></table></figure>]]></content>
     
     
     <categories>
